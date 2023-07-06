@@ -1,12 +1,10 @@
-<img src="https://avatars.githubusercontent.com/u/51365028?s=400&u=78eba3f696924e86a0ee74e155bb7910cbe1c9ea&v=4">
-
 <h2> Hey there! I'm Bolaji.</h2>
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
 I'm a project manager with IT Consortium with a background in Business Operations and software development.
 
-- 🤔 &nbsp; A Fullstack developer with experience in React, Express, Node, MongoDB.
+- 💻 &nbsp; A Fullstack developer with experience in React, Express, Node, MongoDB.
 - 💼 &nbsp; Worked as a Frontend Developer for Logiciel Ghana.
 - 💼 &nbsp; Worked as a Business Development Associate at Rancard Solutions Limited.
 - 🌱 &nbsp; Learning more about Nextjs, Tailwind.css, TypeScript.
