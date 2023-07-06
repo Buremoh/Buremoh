@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Aditya%20Vikram%20Singh%20Banner.png">
+<img src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Buremoh%20Vikram%20Singh%20Banner.png">
 
 <h2> Hey there! I'm Bolaji.</h2>
 
@@ -13,13 +13,28 @@ I'm a project manager with IT Consortium with a background in Business Operation
 - ✍️ &nbsp; Looking for a new role as a frontend or fullstack developer.
 
 <h2 align="center">
+    I create user experiences that are:
+</h2>
+<img align="right" alt="Person coding gif" src="https://github.com/buremoh/buremoh/main/assets/coding.gif" width="200" />
+
+- **Responsive ✅**
+- **Intuitive 🤩**
+- **Dynamic 🧬**
+- **Reusable ♻️**
+- **Secure 🛡️**
+- **Load blazing fast 🚀**
+- **SEO Optimized 🔍**
+- **Crafted with pixel-perfect code ✨**
+
+<h2 align="center">
+  
   Here are some technologies I use:
 </h2>
 <p align="center">
-<code><img height="70" src="https://github.com/chandan-reddy-k/chandan-reddy-k/blob/master/assets/next.png"></code> &nbsp;&nbsp;
-<code><img height="75" src="https://github.com/chandan-reddy-k/chandan-reddy-k/blob/master/assets/react.png"></code> &nbsp;&nbsp;
-<code><img height="75" src="https://github.com/chandan-reddy-k/chandan-reddy-k/blob/master/assets/redux.png"></code> &nbsp;&nbsp;
-<code><img height="75" src="https://github.com/chandan-reddy-k/chandan-reddy-k/blob/master/assets/graphql.png"></code> &nbsp;&nbsp;
+<code><img height="70" src="https://github.com/buremoh/buremoh/main/assets/next.png"></code> &nbsp;&nbsp;
+<code><img height="75" src="https://github.com/buremoh/buremoh/main/assets/react.png"></code> &nbsp;&nbsp;
+<code><img height="75" src="https://github.com/buremoh/buremoh/main/assets/redux.png"></code> &nbsp;&nbsp;
+<code><img height="75" src="https://github.com/buremoh/buremoh/main/assets/graphql.png"></code> &nbsp;&nbsp;
 </p>
 
 <br/>
@@ -34,9 +49,9 @@ I'm a project manager with IT Consortium with a background in Business Operation
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
 <p align="center">
-<a href="https://www.buremoh.xyz/"><img alt="Website" src="https://img.shields.io/badge/Website-www.adityavsingh.com-blue?style=flat-square&logo=google-chrome"></a>
-<a href="https://www.linkedin.com/in/bolajiburemoh/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Aditya%20Vikram%20Singh-blue?style=flat-square&logo=linkedin"></a>
-<a href="mailto:buremoh07@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-avsingh@umass.edu-blue?style=flat-square&logo=gmail"></a>
+<a href="https://www.buremoh.xyz/"><img alt="Website" src="https://img.shields.io/badge/Website-www.buremoh.xyz-blue?style=flat-square&logo=google-chrome"></a>
+<a href="https://www.linkedin.com/in/bolajiburemoh/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Buremoh%20Vikram%20Singh-blue?style=flat-square&logo=linkedin"></a>
+<a href="mailto:buremoh07@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-buremoh07@gmail.com-blue?style=flat-square&logo=gmail"></a>
 </p>
 
 ⭐️ From [Buremoh](https://github.com/Buremoh)
