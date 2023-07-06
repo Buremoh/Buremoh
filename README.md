@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Buremoh%20Vikram%20Singh%20Banner.png">
+<img src="https://avatars.githubusercontent.com/u/51365028?s=400&u=78eba3f696924e86a0ee74e155bb7910cbe1c9ea&v=4">
 
 <h2> Hey there! I'm Bolaji.</h2>
 
