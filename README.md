@@ -15,7 +15,7 @@ I'm a project manager with IT Consortium with a background in Business Operation
 <h2 align="center">
     I create user experiences that are:
 </h2>
-<img align="right" alt="Person coding gif" src="https://github.com/buremoh/buremoh/main/assets/coding.gif" width="200" />
+<img align="right" alt="Person coding gif" src="https://github.com/buremoh/main/assets/coding.gif" width="200" />
 
 - **Responsive ✅**
 - **Intuitive 🤩**
@@ -31,10 +31,10 @@ I'm a project manager with IT Consortium with a background in Business Operation
   Here are some technologies I use:
 </h2>
 <p align="center">
-<code><img height="70" src="https://github.com/buremoh/buremoh/main/assets/next.png"></code> &nbsp;&nbsp;
-<code><img height="75" src="https://github.com/buremoh/buremoh/main/assets/react.png"></code> &nbsp;&nbsp;
-<code><img height="75" src="https://github.com/buremoh/buremoh/main/assets/redux.png"></code> &nbsp;&nbsp;
-<code><img height="75" src="https://github.com/buremoh/buremoh/main/assets/graphql.png"></code> &nbsp;&nbsp;
+<code><img height="70" src="https://github.com/buremoh/main/assets/next.png"></code> &nbsp;&nbsp;
+<code><img height="75" src="https://github.com/buremoh/main/assets/react.png"></code> &nbsp;&nbsp;
+<code><img height="75" src="https://github.com/buremoh/main/assets/redux.png"></code> &nbsp;&nbsp;
+<code><img height="75" src="https://github.com/buremoh/main/assets/graphql.png"></code> &nbsp;&nbsp;
 </p>
 
 <br/>
